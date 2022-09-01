@@ -1,6 +1,6 @@
-# freshcoins-upvotes
+# freshcoins-upvoting-bot
 
-Freshcoins.io upvotes
+Freshcoins.io votes
 
 
 ![freshcoins](https://user-images.githubusercontent.com/112619158/187881012-4c2b39f9-6f29-4edb-b396-1ae9eeef80f4.jpg)
